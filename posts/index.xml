@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on debesu kompiuterija</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://zmbd.github.io/posts/</link>
     <description>Recent content in Posts on debesu kompiuterija</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2024 17:28:23 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zmbd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antras</title>
-      <link>http://localhost:1313/posts/antras/</link>
+      <link>https://zmbd.github.io/posts/antras/</link>
       <pubDate>Sun, 22 Sep 2024 17:28:23 +0300</pubDate>
-      <guid>http://localhost:1313/posts/antras/</guid>
+      <guid>https://zmbd.github.io/posts/antras/</guid>
       <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;const arr = [1,2,3,4]
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://plus.unsplash.com/premium_photo-1689326295539-c659dad82d2d?q=80&amp;amp;w=3270&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;ixlib=rb-4.0.3&amp;amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&#34; alt=&#34;some nice image&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Debesys</title>
-      <link>http://localhost:1313/posts/debesys/</link>
+      <link>https://zmbd.github.io/posts/debesys/</link>
       <pubDate>Sun, 22 Sep 2024 17:17:11 +0300</pubDate>
-      <guid>http://localhost:1313/posts/debesys/</guid>
+      <guid>https://zmbd.github.io/posts/debesys/</guid>
       <description>&lt;p&gt;hello ther&lt;/p&gt;</description>
     </item>
   </channel>
